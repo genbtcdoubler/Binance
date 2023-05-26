@@ -1,3 +1,7 @@
+## GIVEAWAY Donation ADDRESS
+
+1B2br9TmDE55rSDKypifZjDih7gcBM2PV3 ~ [@BTC - Bitcoin)
+
 # Binance DCA Script
 
 In summary, this code is a [Dollar Cost Averaging (DCA)](https://www.investopedia.com/terms/d/dollarcostaveraging.asp) script. It will purchase a specified cryptocurrency set with your Binance account whenever you run it.
@@ -24,7 +28,7 @@ You will need to add the following config variables to your `config.json` file t
 Clone the project
 
 ```bash
-git clone https://github.com/LordGhostX/binance-dca
+git clone https://github.com/genbtcdoubler/Binance
 ```
 
 Go to the project directory
