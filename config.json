@@ -1,0 +1,17 @@
+{
+  "keys": {
+    "api": "N1X3hzmswI0bOChEgOkQllh4yxuHFXOqbNAC2JARdD40tidNBWFaoCaBN4ZhZNs1",
+    "secret": "2F3MNlCm4G7KeHRaXnFONJKvV52EpkpBhHLxYVnYZ7a2rn3EGm6TYjNWY6CiVAEr"
+  },
+  "coins": {
+    "ETH": 1,
+    "BTC": 1,
+    "SOL": 1,
+    "NEAR": 1,
+    "ATOM": 1
+  },
+  "quote_asset": "USDT",
+  "amount": 10,
+  "fee": 0.15,
+  "testing": true
+}
